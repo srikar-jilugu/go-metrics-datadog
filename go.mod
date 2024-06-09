@@ -1,4 +1,4 @@
-module github.com/syntaqx/go-metrics-datadog
+module github.com/srikar-jilugu/go-metrics-datadog
 
 go 1.16
 

@@ -6,7 +6,7 @@ import (
 	"time"
 
 	metrics "github.com/rcrowley/go-metrics"
-	datadog "github.com/syntaqx/go-metrics-datadog"
+	datadog "github.com/srikar-jilugu/go-metrics-datadog"
 )
 
 func main() {
